@@ -1,0 +1,6 @@
+- name: ping-demo
+  hosts: local   #ansible will ping itself
+  connection: local  #it will make use of local network, so don't ask for Credentials
+  tasks: #tasks==modules==collections
+  - name: ping localhost
+    ping: 
