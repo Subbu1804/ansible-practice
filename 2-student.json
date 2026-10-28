@@ -1,0 +1,23 @@
+{
+    "firstName":"Satya",
+    "lastName": "A",
+    "addresses":[
+        {
+            "type": "permanent",
+            "d.no": "118",
+            "street": "r.k.nagar",
+            "city": "bheemili"
+        },
+        {
+            "type": "temporary",
+            "d.no": "320-b",
+            "street": "pranam street",
+            "city": "hyderabad"
+        }
+    ],
+    "skills": {
+        "OS": "Linux",
+        "IDE": "VSCode",
+        "CMM": "Ansible"
+    }
+}

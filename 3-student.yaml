@@ -1,0 +1,35 @@
+- first_name: "satya venkata"
+  last_name: A
+  dob: "18-04-1989"
+  addresses:
+  - address:
+      - type: permanent
+        d.no: 118
+        street: "best street"
+        city: Bheemili
+      - type: temporary
+        d.no: "320-B"
+        street: "Pranam street"
+        city: Hyderabad
+  skills:
+    os: Linux
+    CMM: Ansible
+    IDE: VSCode
+
+- first_name: "venkata subrahmanyam"
+  last_name: A
+  dob: "18-04-1990"
+  addresses:
+  - address:
+      - type: permanent
+        d.no: 118
+        street: "best street"
+        city: Bheemili
+      - type: temporary
+        d.no: "320-B"
+        street: "Pranam street"
+        city: Hyderabad
+  skills:
+    os: windows
+    CMM: Ansible
+    IDE: VSCode

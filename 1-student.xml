@@ -1,0 +1,17 @@
+<student>
+    <firstname>satya</firstname>
+    <lastname>a</lastname>
+    <dob>18-04-1989</dob>
+    <addresses>
+        <address type="Temporary">
+            <d.no>118</d.no> 
+            <street>r.k.nagar</street> 
+            <city>bheemili</city>
+        </address>
+        <address type="Permanent">
+            <d.no>118</d.no> 
+            <street>r.k.nagar</street> 
+            <city>bheemili</city>
+        </address>
+    </addresses>
+</student>
