@@ -1,5 +1,6 @@
 - name: demo on debug
   hosts: local
   connection: local
-  task: Hello world!!
-    ansible.builtin.debug
+  task: 
+    -name: Hello world!!
+    ansible.builtin.debug:
