@@ -7,7 +7,7 @@
         msg: "Hello from play-1 task1"
     - name: play-1 and task2
       debug: 
-        msg: "Hello from play-2 task2"
+        msg: "Hello from play-1 task2"
 
 - name: play-2
   hosts: local
