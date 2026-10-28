@@ -1,4 +1,4 @@
-- name : demo on debug
+- name: demo on debug
   host: local
   connection: local
   task: Hello world!!
